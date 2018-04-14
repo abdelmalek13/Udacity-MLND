@@ -6,11 +6,11 @@
 ## Contents 
 Section | Project | Topics | Status
 --- | --- | --- | ---
-Exploratory Project | [Titanic Survival Exploration](./"Introductory Project - Titanic Survival Exploration") | intro to numpy, scipy, matplotlib, ipython | Done
-Model Evaluation and Validation | [Predicting Boston Housing Prices](./"Predicting Boston Housing Prices - Boston Housing") | data reprocessing, learning algorithms training and evaluation, grid search | Done
-Supervised Learning | [Build a sms spam detector](./"sms spam detector - Inference Bayesian") | comparison of supervised classification learning algorithms, parameters optimization using grid search | Done
-Supervised Learning | [Finding Donors for CharityML](./"Finding Donors for CharityML") | practice and evaluate supervised learning algorithms using `sklearn` | Done
-Unsupervised Learning | [Creating Customer Segments](./creating_customer_segments) | data preprocessing, features PCA, data clustering, interpret clusters | Done
+Exploratory Project | [Titanic Survival Exploration](https://github.com/abdelmalek13/Udacity-MLND/tree/master/Introductory%20Project%20-%20Titanic%20Survival%20Exploration) | intro to numpy, scipy, matplotlib, ipython | Done
+Model Evaluation and Validation | [Predicting Boston Housing Prices](https://github.com/abdelmalek13/Udacity-MLND/tree/master/Predicting%20Boston%20Housing%20Prices%20-%20Boston%20Housing) | data reprocessing, learning algorithms training and evaluation, grid search | Done
+Supervised Learning | [Build a sms spam detector](https://github.com/abdelmalek13/Udacity-MLND/tree/master/sms%20spam%20detector%20-%20Inference%20Bayesian) | comparison of supervised classification learning algorithms, parameters optimization using grid search | Done
+Supervised Learning | [Finding Donors for CharityML](https://github.com/abdelmalek13/Udacity-MLND/tree/master/Finding%20Donors%20for%20CharityML) | practice and evaluate supervised learning algorithms using `sklearn` | Done
+Unsupervised Learning | [Creating Customer Segments](https://github.com/abdelmalek13/Udacity-MLND/tree/master/Customer%20segments) | data preprocessing, features PCA, data clustering, interpret clusters | Done
 Reinforcement Learning | Train a Smartcab to Drive | reenforcement learning with Q Learning algorithms | -
 Deep Learning | Build a Digit Recognition Program | digit recognition with Deep Neural Network and TensorFlow | - 
 Machine Learning Specializations | Capstone Project | - | -
