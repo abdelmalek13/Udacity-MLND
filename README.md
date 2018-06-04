@@ -13,7 +13,7 @@ Supervised Learning | [Finding Donors for CharityML](https://github.com/abdelmal
 Unsupervised Learning | [Creating Customer Segments](https://github.com/abdelmalek13/Udacity-MLND/tree/master/Customer%20segments) | data preprocessing, features PCA, data clustering, interpret clusters | Done
 Reinforcement Learning | [Train a Smartcab to Drive](https://github.com/abdelmalek13/Udacity-MLND/tree/master/smartcab) | reinforcement learning with Q Learning algorithms | Done
 Deep Learning | [Build a Dog breed classifier](https://github.com/abdelmalek13/Udacity-MLND/tree/master/dog-breed) | Dog breed classifier with Deep Neural Network and `Keras` | Done 
-Machine Learning Specializations | [Capstone Project](https://github.com/abdelmalek13/Udacity-MLND/tree/master/Capstone) | Insult comments classifier | Done
+Machine Learning Specializations | [Capstone Project](https://github.com/abdelmalek13/Udacity-MLND/tree/master/Capstone) | Insult comment detector | Done
 
 ## License
 - Original projects description, data, codes and reviews by [Udacity](www.udacity.com) should follow its licenses and [Honor Codes](https://udacity.zendesk.com/hc/en-us/articles/210667103-What-is-the-Udacity-Honor-Code-)
