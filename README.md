@@ -11,7 +11,7 @@ Model Evaluation and Validation | [Predicting Boston Housing Prices](https://git
 Supervised Learning | [Build a sms spam detector](https://github.com/abdelmalek13/Udacity-MLND/tree/master/sms%20spam%20detector%20-%20Inference%20Bayesian) | Basic NLP techniques using Machine learning | Done
 Supervised Learning | [Finding Donors for CharityML](https://github.com/abdelmalek13/Udacity-MLND/tree/master/Finding%20Donors%20for%20CharityML) | practice and evaluate supervised learning algorithms using `sklearn` and comparison of supervised classification learning algorithms, parameters optimization using grid search  | Done
 Unsupervised Learning | [Creating Customer Segments](https://github.com/abdelmalek13/Udacity-MLND/tree/master/Customer%20segments) | data preprocessing, features PCA, data clustering, interpret clusters | Done
-Reinforcement Learning | Train a Smartcab to Drive | reenforcement learning with Q Learning algorithms | Done
+Reinforcement Learning | [Train a Smartcab to Drive](https://github.com/abdelmalek13/Udacity-MLND/tree/master/smartcab) | reinforcement learning with Q Learning algorithms | Done
 Deep Learning | Build a Dog breed classifier | Dog breed classifier with Deep Neural Network and `Keras` | Done 
 Machine Learning Specializations | Capstone Project | Insult comments classifier | Done
 
