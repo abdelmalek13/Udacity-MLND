@@ -1,7 +1,7 @@
 # Udacity-MLND
 ### About
 * [Machine learning Nanodegree projects](https://eg.udacity.com/course/machine-learning-engineer-nanodegree--nd009) on Udacity
-* The course stil in progress and hasn't finished yet 
+* The course finished on the 1st of June, 2018
 
 ## Contents 
 Section | Project | Topics | Status
